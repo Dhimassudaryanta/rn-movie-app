@@ -66,25 +66,10 @@ $ npm run android
 
 
 
-# bug
+# note
 <h4 align="left">
   <p align="left">
-    <strong>Menu Payment | Bagian Paket</strong><br>
-    Untuk penambahan anak baru tidak bisa otomatis harus di realod terlebih dahulu
-  </p>
-  <span> · </span>
-  <p align="left">
-    <strong>Menu Payment | Bagian Pembayaran</strong><br>
-    Disitu buttonnya ketika di tekan sudah langsung masuk ke pending pembayaran harusnya itu di menu cekout
-  </p>  
-  <span> · </span>
-  <p align="left">
-    <strong>Menu Payment | Bagian Paket</strong><br>
-    Data anak yang baru di inputkan ketika di select di lanjutkan di screen metode pembayaran nya masih belum ke getData anaknya yg baru di inputkan
-  </p>
-  <span> · </span>
-  <p align="left">
-    <strong>Transaksi | Bagian Profile</strong><br>
-    Saat masuk dari halaman profile itu harus membutuh kan idnya si anak pembeli paket
+    <strong>Let me know if you have a trouble</strong><br>
+    email me : dhimassudaryanta@gmail.com
   </p>
 </h4>
